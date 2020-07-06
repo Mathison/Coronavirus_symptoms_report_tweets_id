@@ -1,5 +1,5 @@
 # Coronavirus_symptoms_report_tweets_id
-This is a list of tweets id, each id come from the tweets data we collected from twitter using official twitter API, the corresponding tweets contain text with user self-report the symptoms likely to be coronavirus
+The file self_symptoms_report_tweets_id.txt contain a list of tweets id, each id come from the tweets data we collected from twitter using official twitter API, the corresponding tweets contain text with user self-report the symptoms likely to be coronavirus
 
 There are total 3465 tweets we found contain the self-reporting signals during March 3rd to March 20th 2020 
 
